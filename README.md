@@ -49,10 +49,8 @@ The project is organised with service interfaces and implementations that handle
    ```bash
    mvn clean install
     ```
-3. Run the application using:
-    ```bash
-   mvn exec:java -Dexec.mainClass="com.example.Main"
-    ```
+3. Run the application.
+
 ### Usage
 
 - **Email Messaging:** Use implementations of IEmailService for sending, receiving, and forwarding emails. Inject different classes, such as SendEmail or ReceiveJunkEmail, based on the application’s needs.
