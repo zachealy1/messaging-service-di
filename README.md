@@ -33,7 +33,7 @@ The project is organised with service interfaces and implementations that handle
 
 - **Dependency Injection**: Allows for flexible swapping of service implementations without modifying the core application logic.
 - **Modular Messaging Services**: Separates email and SMS functionalities, supporting domestic and international communication.
-- **Interfaces for Flexibility**: Utilizes interfaces for message sending and receiving, enabling the implementation of different communication protocols or services.
+- **Interfaces for Flexibility**: Utilises interfaces for message sending and receiving, enabling the implementation of different communication protocols or services.
 
 ## Getting Started
 
